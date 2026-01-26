@@ -1,0 +1,8 @@
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\bin\Debug\MAG-ASO_Inserting Nodes to the Linked List.exe.config
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\bin\Debug\MAG-ASO_Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\bin\Debug\MAG-ASO_Inserting Nodes to the Linked List.pdb
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\obj\Debug\MAG-ASO_Inserting Nodes to the Linked List.csproj.AssemblyReference.cache
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\obj\Debug\MAG-ASO_Inserting Nodes to the Linked List.csproj.CoreCompileInputs.cache
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\obj\Debug\MAG-ASO_Inserting Nodes to the Linked List.exe
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\obj\Debug\MAG-ASO_Inserting Nodes to the Linked List.pdb
+C:\Users\ACT-STUDENT\Desktop\DASTRU\MAG-ASO_Inserting Nodes to the Linked List\obj\Debug\MAG-ASO_Inserting Nodes to the Linked List.exe.config
